@@ -9,4 +9,7 @@
 | 4  | Zahra Hafizhah                              | 5027241121  |
 
 ### Topologi
-![topologi](images/topologi.jpg)
+![topologi](images/topologi.jpg) 
+
+### LINK GDRIVE PROJEK GNS3
+https://drive.google.com/file/d/1v8b1wQnb8Sh30JRC9ZP9pB57lsIBW2Et/view?usp=sharing 
